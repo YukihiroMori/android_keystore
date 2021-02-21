@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_keystore</string>
+
+    <string name="save_button">保存</string>
+
+    <string name="save_error">テキストの保存に失敗しました</string>
+    <string name="load_error">テキストの読み込みに失敗しました</string>
+</resources>
